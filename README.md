@@ -1,6 +1,5 @@
 ### Minesweeper game implemented by Kotlin
 Main code: java/com/example/termprojectdemo/MainActivity.kt
-
 Layout: res/activity_main.xml
 - Key point: Figure out the recursion relation in the Minesweeper game
 Demo picture:
